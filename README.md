@@ -37,6 +37,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 4.Create nodes for inputs and outputs to generate the timing diagram.
 
 5.For different input combinations generate the timing diagram.
+
 **PROGRAM**
 
 module exp11(out,clk,rst);
